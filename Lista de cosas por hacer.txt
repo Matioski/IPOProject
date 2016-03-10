@@ -1,4 +1,0 @@
-- Mirar aplicaciones educativas y obtener diseños de interfaces y requisitos comunes a todas.
-- Diseñar encuestas
-- Mirar angular
-- Prototipo 0
