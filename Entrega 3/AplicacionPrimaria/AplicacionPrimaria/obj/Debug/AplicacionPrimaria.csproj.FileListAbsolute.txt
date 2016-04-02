@@ -1,1 +1,10 @@
 D:\Repositorios\IPO\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\bin\Debug\AplicacionPrimaria.exe.config
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\bin\Debug\AplicacionPrimaria.exe.config
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\bin\Debug\AplicacionPrimaria.exe
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\bin\Debug\AplicacionPrimaria.pdb
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.csprojResolveAssemblyReference.cache
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.vPrincipal.resources
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.Properties.Resources.resources
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.csproj.GenerateResource.Cache
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.exe
+F:\07 IPO\ipo-pr-ctica\Entrega 3\AplicacionPrimaria\AplicacionPrimaria\obj\Debug\AplicacionPrimaria.pdb
