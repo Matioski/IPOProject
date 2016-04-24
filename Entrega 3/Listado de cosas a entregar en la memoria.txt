@@ -1,0 +1,8 @@
+0) Introducción
+1) Heuristicas
+1) Dejar claro que prototipo se lleva a la sesión de evaluación
+2) Descripción del material de evaluación usado y cómo se ejecutó la sesión. 
+3) Análisis y resultados obtenidos de todos los instrumentos de medida. 
+4) Mejoras a realizar sobre el prototipo v3 y que generarían los prototipos v4. 
+5) Conclusiones. 
+
