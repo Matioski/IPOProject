@@ -6,3 +6,11 @@
 4) Mejoras a realizar sobre el prototipo v3 y que generarían los prototipos v4. 
 5) Conclusiones. 
 
+- Hacer una introduccion en la memoria.
+- Poner usuario y contraseña de profesor y alumno para que Diana vea el prototipo final.
+-  Hacer las heuristicas de schneidermann.
+- Hacer el recorrido cognitivo.
+- Poner el material que llevamos a la sesion de evaluación.
+- Analisis de resultados de la sesion.
+-Proponer mejoras para generar el ultimo prototipo.
+- Conclusiones
